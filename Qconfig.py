@@ -1,10 +1,18 @@
+# (C) Copyright IBM 2022.
+
+# This code is licensed under the Apache License, Version 2.0. You may
+# obtain a copy of this license in the LICENSE.txt file in the root directory
+# of this source tree or at http://www.apache.org/licenses/LICENSE-2.0.
+# Any modifications or derivative works of this code must retain this
+# copyright notice, and modified files need to carry a notice indicating
+# that they have been altered from the originals.
+
 # Before you can use the jobs API, you need to set up an access token.
 # Log in to the IBM Q experience. Under "Account", generate a personal 
 # access token. Replace 'PUT_YOUR_API_TOKEN_HERE' below with the quoted
 # token string. Uncomment the APItoken variable, and you will be ready to go.
 
 #APItoken = 'PUT_YOUR_API_TOKEN_HERE'
-APItoken='55b176a88bb0393b003f268cec4c50f73ce52c094db168337f27656600fcd18c787d17c7d122e3a11a1f1dc0b18253120907364209ce4cc100a3c8c7efe0ad7e'
 
 config = {
     'url': 'https://quantumexperience.ng.bluemix.net/api',
