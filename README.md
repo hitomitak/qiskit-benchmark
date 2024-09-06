@@ -51,3 +51,6 @@ This program is based on the Bernstein-Vazirani algorithm in the [QISKit-tutoria
 ### Counterfeit-Coin Finding algorithm (cc)
 This program is based on the Counterfeit-Coin Finding algorithm in the [QISKit-tutorial](https://github.com/QISKit/qiskit-tutorial).
 
+## License
+
+[Apache License 2.0](LICENSE-2.0.txt)
